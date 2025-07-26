@@ -1,0 +1,23 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+    Developer: Dipayan Dutta (Spedorio)
+    Contact: dipayan [at] spedorio.site
+    Twitter: @iamdipayandutta
+    GitHub: github.com/iamdipayandutta
+    LinkedIn: linkedin.com/in/dipayandutta
+    Location: Jagaddal, West Bengal, India
+
+# TECHNOLOGY COLOPHON
+    HTML5, CSS3, JavaScript
+    React.js, Node.js
+    Python, Django, Flask
+    Responsive Design
+    Progressive Web App
+
+# SITE
+    Last update: 2025/01/27
+    Standards: HTML5, CSS3
+    Components: React, Styled Components
+    Software: VS Code

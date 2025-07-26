@@ -1,3 +1,11 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow:
+Allow: /
+Disallow: /static/js/*.map
+Disallow: /static/css/*.map
+
+# Sitemap
+Sitemap: https://spedorio.site/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
